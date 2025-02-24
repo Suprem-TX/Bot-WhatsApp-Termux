@@ -52,9 +52,16 @@ Escaneas el QR y listo
 
 
 
-## 📩 Contacto
-Si tienes dudas o sugerencias, contáctame en mi GitHub: [bySupremTX](https://github.com/bySupremTX)
+## 📩 DATOS DEL CREADOR
 
 ---
-💡 **Nota:** Asegúrate de usar este bot de manera ética y responsable.
+## INFORMACION ADICIONAL
+
+En caso de volver a iniciar sesion pero no puedes solo borra la carpeta 
+**auth_info** 
+
+
+```bash
+rm -rf auth_info
+```
 
