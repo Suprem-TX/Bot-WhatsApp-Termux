@@ -56,7 +56,7 @@ npm install sharp@0.32.6
 # 🔹 Ejecucion
 
 ```bash
-   node index.js
+node index.js
 ```
 Escaneas el QR y listo
 
