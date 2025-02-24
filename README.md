@@ -2,13 +2,14 @@
 
 <p align="center"> 
   <a href="wa.me/+52">
-    <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=true&vCenter=true&lines=Suprem-TX;Suprem+TX+Bot" height="100px">
+    <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=FF0000&center=true&vCenter=true&effect=zoom&lines=Suprem-TX;Suprem+TX+Bot" height="100px">
   </a> 
 </p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3bnBxaXJ0cGMzcnBpcXVpd3RkN2p3d2x6ZjMwdjljODBndTJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" alt="SupremTX GIF" style="width: 100%; height: auto; max-width: 500px;">
 </p>
+
 
 
 ## 📜 Comandos
