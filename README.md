@@ -13,6 +13,8 @@
 
 
 ## 📜 Comandos
+
+Para ver el listo en el bot solo usa /menu
 ```bash
 ┌──────────────────────
 ├ •🛡️ *Para Administradores* 🛡️
