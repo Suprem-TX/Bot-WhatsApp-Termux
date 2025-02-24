@@ -47,7 +47,7 @@ npm install
 npm install @whiskeysockets/baileys --legacy-peer-deps
 ```
 ```bash
-npm install link-preview-js --legacy-peer-deps
+npm install qrcode-terminal
 ```
 ```bash
 npm install sharp@0.32.6
